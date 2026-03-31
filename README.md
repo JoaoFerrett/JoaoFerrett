@@ -27,9 +27,9 @@ Sou estudante de Sistemas de Informação na USP. Tenho grande interesse em tecn
 
 ## 📊 Estatísticas e Métricas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoFerrett&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![Stats](https://streak-stats.demolab.com?user=JoaoFerrett&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFerrett&layout=compact&theme=tokyonight&cache_seconds=86400)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFerrett&hide=html,css&layout=compact)
 
 ---
 
