@@ -1,10 +1,42 @@
-## Olá, eu sou o João Ferrett👋
+# 👋 Olá, eu sou o João Ferrett
 
-- 🎓 Estudante de Sistemas de Informação na Universidade de São Paulo 
-- 💻 Interesses voltados à Desenvolvimento, Ciência de Dados e IA
-- 🌱 Atualmente aprendendo: Java
+🎓 Estudante de Sistemas de Informação na Universidade de São Paulo (USP)
 
-## 📬 Contato
+💻 Desenvolvedor em formação, no momento focado em criar projetos para a concretização do meu aprendizado
 
-- Email: ferrettjoao@gmail.com
-- LinkedIn: [in/joãovlferrett](https://www.linkedin.com/in/jo%C3%A3ovlferrett//)  
+🚀 Buscando sempre evoluir constantemente!
+
+---
+
+### 💻 Linguagens de programação
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+## ⚙️ Ferramentas e tecnologias
+- Git
+- Linux
+- Spring Framework
+
+---
+
+## 💡 Sobre Mim
+Sou estudante de Sistemas de Informação na USP. Tenho grande interesse em tecnologia, especialmente na resolução de problemas através da programação. Tento aprimorar meu aprendizado ao máximo me desafiando a criar projetos que me façam raciocinar e compreender conceitos novos. Atualmente estou construindo minha base técnica principalmente em Java, além de utilizar ferramentas auxiliares no meu dia a dia de estudos, tais como Git e o Github para versionar e criar repositórios, ou mesmo, IDE's como VS code e InteliJ para organização e visualização dos códigos.
+
+---
+
+## 📊 Estatísticas e Métricas
+
+![João GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoFerrett&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFerrett&layout=compact&theme=dark)
+
+---
+
+## 📫 Contato e Redes
+
+📧 Email: ferrettjoao@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/joãovlferrett  
+
+---
+
