@@ -48,7 +48,7 @@ Minha curiosidade também me leva a explorar outras áreas da **Ciência da Comp
 - **Algoritmos e estruturas de dados:** resolução de problemas, matrizes e representações de grafos.
 - **Desenvolvimento Back-End:** aprofundamento em Java e no ecossistema Spring.
 
-## 🚀 Projetos em destaque
+## 📂 Projetos em destaque
 
 Projetos pessoais e acadêmicos em que coloco meus estudos em prática.
 
