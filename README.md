@@ -14,11 +14,11 @@
 
 ## 💡 Sobre mim
 
-Sou estudante de Sistemas de Informação na USP e desenvolvedor em formação, com interesse especial em **Engenharia de Software e Desenvolvimento Back-End**. Gosto de entender como os sistemas funcionam, transformar problemas em soluções e aprender a construir software bem organizado, compreensível e fácil de manter.
+Sou estudante de Sistemas de Informação na USP e desenvolvedor em formação, com interesse especial em **Engenharia de Software e Desenvolvimento Orientado a Cibersegurança**. Gosto de entender como os sistemas funcionam, transformar problemas em soluções e aprender a construir software bem organizado, compreensível e fácil de manter.
 
 Tenho aprofundado minha base principalmente em **Java**, usando projetos para colocar a teoria em prática, explorar a orientação a objetos e conhecer diferentes formas de estruturar o código. Cada projeto é uma oportunidade de experimentar, rever decisões e consolidar o que aprendo.
 
-Minha curiosidade também me leva a explorar outras áreas da **Ciência da Computação**. Gosto de estudar algoritmos e estruturas de dados, experimentar outras linguagens e descobrir temas que ampliem minha maneira de pensar e resolver problemas. Por aqui, compartilho projetos, estudos e experimentos que fazem parte dessa trajetória de aprendizado contínuo.
+Minha curiosidade também me leva a explorar outras áreas da **Ciência da Computação**. Gosto de estudar algoritmos e estruturas de dados, desenvolvimento de jogos, aprendizado de maquina, experimentar outras linguagens e descobrir temas que ampliem minha maneira de pensar e resolver problemas. Por aqui, compartilho projetos, estudos e experimentos que fazem parte dessa trajetória de aprendizado contínuo.
 
 ## 🛠️ Tecnologias e ferramentas
 
